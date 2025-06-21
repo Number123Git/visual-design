@@ -139,4 +139,564 @@
   --beige:#f5f5dc;
   --lightsalmon:#ffa07a;
   --mediumslateblue:#7b68ee;
+}
+
+.text-black {
+  color: var(--black);
+}
+
+.text-aliceblue {
+  color: var(--aliceblue);
+}
+
+.text-darkcyan {
+  color: var(--darkcyan);
+}
+
+.text-lightyellow {
+  color: var(--lightyellow);
+}
+
+.text-coral {
+  color: var(--coral);
+}
+
+.text-dimgray {
+  color: var(--dimgray);
+}
+
+.text-lavender {
+  color: var(--lavender);
+}
+
+.text-teal {
+  color: var(--teal);
+}
+
+.text-lightgoldenrodyellow {
+  color: var(--lightgoldenrodyellow);
+}
+
+.text-tomato {
+  color: var(--tomato);
+}
+
+.text-gray {
+  color: var(--gray);
+}
+
+.text-lightsteelblue {
+  color: var(--lightsteelblue);
+}
+
+.text-darkslategray {
+  color: var(--darkslategray);
+}
+
+.text-lemonchiffon {
+  color: var(--lemonchiffon);
+}
+
+.text-orangered {
+  color: var(--orangered);
+}
+
+.text-darkgray {
+  color: var(--darkgray);
+}
+
+.text-lightslategray {
+  color: var(--lightslategray);
+}
+
+.text-darkgreen {
+  color: var(--darkgreen);
+}
+
+.text-wheat {
+  color: var(--wheat);
+}
+
+.text-red {
+  color: var(--red);
+}
+
+.text-silver {
+  color: var(--silver);
+}
+
+.text-slategray {
+  color: var(--slategray);
+}
+
+.text-green {
+  color: var(--green);
+}
+
+.text-burlywood {
+  color: var(--burlywood);
+}
+
+.text-crimson {
+  color: var(--crimson);
+}
+
+.text-lightgray {
+  color: var(--lightgray);
+}
+
+.text-steelblue {
+  color: var(--steelblue);
+}
+
+.text-forestgreen {
+  color: var(--forestgreen);
+}
+
+.text-tan {
+  color: var(--tan);
+}
+
+.text-mediumvioletred {
+  color: var(--mediumvioletred);
+}
+
+.text-gainsboro {
+  color: var(--gainsboro);
+}
+
+.text-royalblue {
+  color: var(--royalblue);
+}
+
+.text-seagreen {
+  color: var(--seagreen);
+}
+
+.text-khaki {
+  color: var(--khaki);
+}
+
+.text-deeppink {
+  color: var(--deeppink);
+}
+
+.text-whitesmoke {
+  color: var(--whitesmoke);
+}
+
+.text-midnightblue {
+  color: var(--midnightblue);
+}
+
+.text-mediumseagreen {
+  color: var(--mediumseagreen);
+}
+
+.text-yellow {
+  color: var(--yellow);
+}
+
+.text-hotpink {
+  color: var(--hotpink);
+}
+
+.text-white {
+  color: var(--white);
+}
+
+.text-navy {
+  color: var(--navy);
+}
+
+.text-mediumaquamarine {
+  color: var(--mediumaquamarine);
+}
+
+.text-gold {
+  color: var(--gold);
+}
+
+.text-palevioletred {
+  color: var(--palevioletred);
+}
+
+.text-snow {
+  color: var(--snow);
+}
+
+.text-darkblue {
+  color: var(--darkblue);
+}
+
+.text-darkseagreen {
+  color: var(--darkseagreen);
+}
+
+.text-orange {
+  color: var(--orange);
+}
+
+.text-pink {
+  color: var(--pink);
+}
+
+.text-ghostwhite {
+  color: var(--ghostwhite);
+}
+
+.text-mediumblue {
+  color: var(--mediumblue);
+}
+
+.text-aquamarine {
+  color: var(--aquamarine);
+}
+
+.text-sandybrown {
+  color: var(--sandybrown);
+}
+
+.text-lightpink {
+  color: var(--lightpink);
+}
+
+.text-floralwhite {
+  color: var(--floralwhite);
+}
+
+.text-blue {
+  color: var(--blue);
+}
+
+.text-palegreen {
+  color: var(--palegreen);
+}
+
+.text-darkorange {
+  color: var(--darkorange);
+}
+
+.text-thistle {
+  color: var(--thistle);
+}
+
+.text-linen {
+  color: var(--linen);
+}
+
+.text-dodgerblue {
+  color: var(--dodgerblue);
+}
+
+.text-lightgreen {
+  color: var(--lightgreen);
+}
+
+.text-goldenrod {
+  color: var(--goldenrod);
+}
+
+.text-magenta {
+  color: var(--magenta);
+}
+
+.text-antiquewhite {
+  color: var(--antiquewhite);
+}
+
+.text-cornflowerblue {
+  color: var(--cornflowerblue);
+}
+
+.text-springgreen {
+  color: var(--springgreen);
+}
+
+.text-peru {
+  color: var(--peru);
+}
+
+.text-fuchsia {
+  color: var(--fuchsia);
+}
+
+.text-papayawhip {
+  color: var(--papayawhip);
+}
+
+.text-deepskyblue {
+  color: var(--deepskyblue);
+}
+
+.text-mediumspringgreen {
+  color: var(--mediumspringgreen);
+}
+
+.text-darkgoldenrod {
+  color: var(--darkgoldenrod);
+}
+
+.text-violet {
+  color: var(--violet);
+}
+
+.text-blanchedalmond {
+  color: var(--blanchedalmond);
+}
+
+.text-lightskyblue {
+  color: var(--lightskyblue);
+}
+
+.text-lawngreen {
+  color: var(--lawngreen);
+}
+
+.text-chocolate {
+  color: var(--chocolate);
+}
+
+.text-plum {
+  color: var(--plum);
+}
+
+.text-bisque {
+  color: var(--bisque);
+}
+
+.text-skyblue {
+  color: var(--skyblue);
+}
+
+.text-chartreuse {
+  color: var(--chartreuse);
+}
+
+.text-sienna {
+  color: var(--sienna);
+}
+
+.text-orchid {
+  color: var(--orchid);
+}
+
+.text-moccasin {
+  color: var(--moccasin);
+}
+
+.text-lightblue {
+  color: var(--lightblue);
+}
+
+.text-greenyellow {
+  color: var(--greenyellow);
+}
+
+.text-saddlebrown {
+  color: var(--saddlebrown);
+}
+
+.text-mediumorchid {
+  color: var(--mediumorchid);
+}
+
+.text-navajowhite {
+  color: var(--navajowhite);
+}
+
+.text-powderblue {
+  color: var(--powderblue);
+}
+
+.text-lime {
+  color: var(--lime);
+}
+
+.text-maroon {
+  color: var(--maroon);
+}
+
+.text-darkorchid {
+  color: var(--darkorchid);
+}
+
+.text-peachpuff {
+  color: var(--peachpuff);
+}
+
+.text-paleturquoise {
+  color: var(--paleturquoise);
+}
+
+.text-limegreen {
+  color: var(--limegreen);
+}
+
+.text-darkred {
+  color: var(--darkred);
+}
+
+.text-darkviolet {
+  color: var(--darkviolet);
+}
+
+.text-mistyrose {
+  color: var(--mistyrose);
+}
+
+.text-lightcyan {
+  color: var(--lightcyan);
+}
+
+.text-yellowgreen {
+  color: var(--yellowgreen);
+}
+
+.text-brown {
+  color: var(--brown);
+}
+
+.text-darkmagenta {
+  color: var(--darkmagenta);
+}
+
+.text-lavenderblush {
+  color: var(--lavenderblush);
+}
+
+.text-cyan {
+  color: var(--cyan);
+}
+
+.text-darkolivegreen {
+  color: var(--darkolivegreen);
+}
+
+.text-firebrick {
+  color: var(--firebrick);
+}
+
+.text-purple {
+  color: var(--purple);
+}
+
+.text-seashell {
+  color: var(--seashell);
+}
+
+.text-aqua {
+  color: var(--aqua);
+}
+
+.text-olivedrab {
+  color: var(--olivedrab);
+}
+
+.text-indianred {
+  color: var(--indianred);
+}
+
+.text-indigo {
+  color: var(--indigo);
+}
+
+.text-oldlace {
+  color: var(--oldlace);
+}
+
+.text-turquoise {
+  color: var(--turquoise);
+}
+
+.text-olive {
+  color: var(--olive);
+}
+
+.text-rosybrown {
+  color: var(--rosybrown);
+}
+
+.text-darkslateblue {
+  color: var(--darkslateblue);
+}
+
+.text-ivory {
+  color: var(--ivory);
+}
+
+.text-mediumturquoise {
+  color: var(--mediumturquoise);
+}
+
+.text-darkkhaki {
+  color: var(--darkkhaki);
+}
+
+.text-darksalmon {
+  color: var(--darksalmon);
+}
+
+.text-blueviolet {
+  color: var(--blueviolet);
+}
+
+.text-honeydew {
+  color: var(--honeydew);
+}
+
+.text-darkturquoise {
+  color: var(--darkturquoise);
+}
+
+.text-palegoldenrod {
+  color: var(--palegoldenrod);
+}
+
+.text-lightcoral {
+  color: var(--lightcoral);
+}
+
+.text-mediumpurple {
+  color: var(--mediumpurple);
+}
+
+.text-mintcream {
+  color: var(--mintcream);
+}
+
+.text-lightseagreen {
+  color: var(--lightseagreen);
+}
+
+.text-cornsilk {
+  color: var(--cornsilk);
+}
+
+.text-salmon {
+  color: var(--salmon);
+}
+
+.text-slateblue {
+  color: var(--slateblue);
+}
+
+.text-azure {
+  color: var(--azure);
+}
+
+.text-cadetblue {
+  color: var(--cadetblue);
+}
+
+.text-beige {
+  color: var(--beige);
+}
+
+.text-lightsalmon {
+  color: var(--lightsalmon);
+}
+
+.text-mediumslateblue {
+  color: var(--mediumslateblue);
 }/*# sourceMappingURL=visual-design.css.map */
