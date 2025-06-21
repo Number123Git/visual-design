@@ -699,4 +699,564 @@
 
 .text-mediumslateblue {
   color: var(--mediumslateblue);
+}
+
+.text-bg-black {
+  background-color: var(--black);
+}
+
+.text-bg-aliceblue {
+  background-color: var(--aliceblue);
+}
+
+.text-bg-darkcyan {
+  background-color: var(--darkcyan);
+}
+
+.text-bg-lightyellow {
+  background-color: var(--lightyellow);
+}
+
+.text-bg-coral {
+  background-color: var(--coral);
+}
+
+.text-bg-dimgray {
+  background-color: var(--dimgray);
+}
+
+.text-bg-lavender {
+  background-color: var(--lavender);
+}
+
+.text-bg-teal {
+  background-color: var(--teal);
+}
+
+.text-bg-lightgoldenrodyellow {
+  background-color: var(--lightgoldenrodyellow);
+}
+
+.text-bg-tomato {
+  background-color: var(--tomato);
+}
+
+.text-bg-gray {
+  background-color: var(--gray);
+}
+
+.text-bg-lightsteelblue {
+  background-color: var(--lightsteelblue);
+}
+
+.text-bg-darkslategray {
+  background-color: var(--darkslategray);
+}
+
+.text-bg-lemonchiffon {
+  background-color: var(--lemonchiffon);
+}
+
+.text-bg-orangered {
+  background-color: var(--orangered);
+}
+
+.text-bg-darkgray {
+  background-color: var(--darkgray);
+}
+
+.text-bg-lightslategray {
+  background-color: var(--lightslategray);
+}
+
+.text-bg-darkgreen {
+  background-color: var(--darkgreen);
+}
+
+.text-bg-wheat {
+  background-color: var(--wheat);
+}
+
+.text-bg-red {
+  background-color: var(--red);
+}
+
+.text-bg-silver {
+  background-color: var(--silver);
+}
+
+.text-bg-slategray {
+  background-color: var(--slategray);
+}
+
+.text-bg-green {
+  background-color: var(--green);
+}
+
+.text-bg-burlywood {
+  background-color: var(--burlywood);
+}
+
+.text-bg-crimson {
+  background-color: var(--crimson);
+}
+
+.text-bg-lightgray {
+  background-color: var(--lightgray);
+}
+
+.text-bg-steelblue {
+  background-color: var(--steelblue);
+}
+
+.text-bg-forestgreen {
+  background-color: var(--forestgreen);
+}
+
+.text-bg-tan {
+  background-color: var(--tan);
+}
+
+.text-bg-mediumvioletred {
+  background-color: var(--mediumvioletred);
+}
+
+.text-bg-gainsboro {
+  background-color: var(--gainsboro);
+}
+
+.text-bg-royalblue {
+  background-color: var(--royalblue);
+}
+
+.text-bg-seagreen {
+  background-color: var(--seagreen);
+}
+
+.text-bg-khaki {
+  background-color: var(--khaki);
+}
+
+.text-bg-deeppink {
+  background-color: var(--deeppink);
+}
+
+.text-bg-whitesmoke {
+  background-color: var(--whitesmoke);
+}
+
+.text-bg-midnightblue {
+  background-color: var(--midnightblue);
+}
+
+.text-bg-mediumseagreen {
+  background-color: var(--mediumseagreen);
+}
+
+.text-bg-yellow {
+  background-color: var(--yellow);
+}
+
+.text-bg-hotpink {
+  background-color: var(--hotpink);
+}
+
+.text-bg-white {
+  background-color: var(--white);
+}
+
+.text-bg-navy {
+  background-color: var(--navy);
+}
+
+.text-bg-mediumaquamarine {
+  background-color: var(--mediumaquamarine);
+}
+
+.text-bg-gold {
+  background-color: var(--gold);
+}
+
+.text-bg-palevioletred {
+  background-color: var(--palevioletred);
+}
+
+.text-bg-snow {
+  background-color: var(--snow);
+}
+
+.text-bg-darkblue {
+  background-color: var(--darkblue);
+}
+
+.text-bg-darkseagreen {
+  background-color: var(--darkseagreen);
+}
+
+.text-bg-orange {
+  background-color: var(--orange);
+}
+
+.text-bg-pink {
+  background-color: var(--pink);
+}
+
+.text-bg-ghostwhite {
+  background-color: var(--ghostwhite);
+}
+
+.text-bg-mediumblue {
+  background-color: var(--mediumblue);
+}
+
+.text-bg-aquamarine {
+  background-color: var(--aquamarine);
+}
+
+.text-bg-sandybrown {
+  background-color: var(--sandybrown);
+}
+
+.text-bg-lightpink {
+  background-color: var(--lightpink);
+}
+
+.text-bg-floralwhite {
+  background-color: var(--floralwhite);
+}
+
+.text-bg-blue {
+  background-color: var(--blue);
+}
+
+.text-bg-palegreen {
+  background-color: var(--palegreen);
+}
+
+.text-bg-darkorange {
+  background-color: var(--darkorange);
+}
+
+.text-bg-thistle {
+  background-color: var(--thistle);
+}
+
+.text-bg-linen {
+  background-color: var(--linen);
+}
+
+.text-bg-dodgerblue {
+  background-color: var(--dodgerblue);
+}
+
+.text-bg-lightgreen {
+  background-color: var(--lightgreen);
+}
+
+.text-bg-goldenrod {
+  background-color: var(--goldenrod);
+}
+
+.text-bg-magenta {
+  background-color: var(--magenta);
+}
+
+.text-bg-antiquewhite {
+  background-color: var(--antiquewhite);
+}
+
+.text-bg-cornflowerblue {
+  background-color: var(--cornflowerblue);
+}
+
+.text-bg-springgreen {
+  background-color: var(--springgreen);
+}
+
+.text-bg-peru {
+  background-color: var(--peru);
+}
+
+.text-bg-fuchsia {
+  background-color: var(--fuchsia);
+}
+
+.text-bg-papayawhip {
+  background-color: var(--papayawhip);
+}
+
+.text-bg-deepskyblue {
+  background-color: var(--deepskyblue);
+}
+
+.text-bg-mediumspringgreen {
+  background-color: var(--mediumspringgreen);
+}
+
+.text-bg-darkgoldenrod {
+  background-color: var(--darkgoldenrod);
+}
+
+.text-bg-violet {
+  background-color: var(--violet);
+}
+
+.text-bg-blanchedalmond {
+  background-color: var(--blanchedalmond);
+}
+
+.text-bg-lightskyblue {
+  background-color: var(--lightskyblue);
+}
+
+.text-bg-lawngreen {
+  background-color: var(--lawngreen);
+}
+
+.text-bg-chocolate {
+  background-color: var(--chocolate);
+}
+
+.text-bg-plum {
+  background-color: var(--plum);
+}
+
+.text-bg-bisque {
+  background-color: var(--bisque);
+}
+
+.text-bg-skyblue {
+  background-color: var(--skyblue);
+}
+
+.text-bg-chartreuse {
+  background-color: var(--chartreuse);
+}
+
+.text-bg-sienna {
+  background-color: var(--sienna);
+}
+
+.text-bg-orchid {
+  background-color: var(--orchid);
+}
+
+.text-bg-moccasin {
+  background-color: var(--moccasin);
+}
+
+.text-bg-lightblue {
+  background-color: var(--lightblue);
+}
+
+.text-bg-greenyellow {
+  background-color: var(--greenyellow);
+}
+
+.text-bg-saddlebrown {
+  background-color: var(--saddlebrown);
+}
+
+.text-bg-mediumorchid {
+  background-color: var(--mediumorchid);
+}
+
+.text-bg-navajowhite {
+  background-color: var(--navajowhite);
+}
+
+.text-bg-powderblue {
+  background-color: var(--powderblue);
+}
+
+.text-bg-lime {
+  background-color: var(--lime);
+}
+
+.text-bg-maroon {
+  background-color: var(--maroon);
+}
+
+.text-bg-darkorchid {
+  background-color: var(--darkorchid);
+}
+
+.text-bg-peachpuff {
+  background-color: var(--peachpuff);
+}
+
+.text-bg-paleturquoise {
+  background-color: var(--paleturquoise);
+}
+
+.text-bg-limegreen {
+  background-color: var(--limegreen);
+}
+
+.text-bg-darkred {
+  background-color: var(--darkred);
+}
+
+.text-bg-darkviolet {
+  background-color: var(--darkviolet);
+}
+
+.text-bg-mistyrose {
+  background-color: var(--mistyrose);
+}
+
+.text-bg-lightcyan {
+  background-color: var(--lightcyan);
+}
+
+.text-bg-yellowgreen {
+  background-color: var(--yellowgreen);
+}
+
+.text-bg-brown {
+  background-color: var(--brown);
+}
+
+.text-bg-darkmagenta {
+  background-color: var(--darkmagenta);
+}
+
+.text-bg-lavenderblush {
+  background-color: var(--lavenderblush);
+}
+
+.text-bg-cyan {
+  background-color: var(--cyan);
+}
+
+.text-bg-darkolivegreen {
+  background-color: var(--darkolivegreen);
+}
+
+.text-bg-firebrick {
+  background-color: var(--firebrick);
+}
+
+.text-bg-purple {
+  background-color: var(--purple);
+}
+
+.text-bg-seashell {
+  background-color: var(--seashell);
+}
+
+.text-bg-aqua {
+  background-color: var(--aqua);
+}
+
+.text-bg-olivedrab {
+  background-color: var(--olivedrab);
+}
+
+.text-bg-indianred {
+  background-color: var(--indianred);
+}
+
+.text-bg-indigo {
+  background-color: var(--indigo);
+}
+
+.text-bg-oldlace {
+  background-color: var(--oldlace);
+}
+
+.text-bg-turquoise {
+  background-color: var(--turquoise);
+}
+
+.text-bg-olive {
+  background-color: var(--olive);
+}
+
+.text-bg-rosybrown {
+  background-color: var(--rosybrown);
+}
+
+.text-bg-darkslateblue {
+  background-color: var(--darkslateblue);
+}
+
+.text-bg-ivory {
+  background-color: var(--ivory);
+}
+
+.text-bg-mediumturquoise {
+  background-color: var(--mediumturquoise);
+}
+
+.text-bg-darkkhaki {
+  background-color: var(--darkkhaki);
+}
+
+.text-bg-darksalmon {
+  background-color: var(--darksalmon);
+}
+
+.text-bg-blueviolet {
+  background-color: var(--blueviolet);
+}
+
+.text-bg-honeydew {
+  background-color: var(--honeydew);
+}
+
+.text-bg-darkturquoise {
+  background-color: var(--darkturquoise);
+}
+
+.text-bg-palegoldenrod {
+  background-color: var(--palegoldenrod);
+}
+
+.text-bg-lightcoral {
+  background-color: var(--lightcoral);
+}
+
+.text-bg-mediumpurple {
+  background-color: var(--mediumpurple);
+}
+
+.text-bg-mintcream {
+  background-color: var(--mintcream);
+}
+
+.text-bg-lightseagreen {
+  background-color: var(--lightseagreen);
+}
+
+.text-bg-cornsilk {
+  background-color: var(--cornsilk);
+}
+
+.text-bg-salmon {
+  background-color: var(--salmon);
+}
+
+.text-bg-slateblue {
+  background-color: var(--slateblue);
+}
+
+.text-bg-azure {
+  background-color: var(--azure);
+}
+
+.text-bg-cadetblue {
+  background-color: var(--cadetblue);
+}
+
+.text-bg-beige {
+  background-color: var(--beige);
+}
+
+.text-bg-lightsalmon {
+  background-color: var(--lightsalmon);
+}
+
+.text-bg-mediumslateblue {
+  background-color: var(--mediumslateblue);
 }/*# sourceMappingURL=visual-design.css.map */
