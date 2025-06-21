@@ -8,3 +8,10 @@
         color: $value;
     }
 }
+
+// テキストの背景カラー用ユーティリティクラスを自動生成
+@each $name, $value in $colors {
+    .text-bg-#{$name} {
+        background-color: $value;
+    }
+}
